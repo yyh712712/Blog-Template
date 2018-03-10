@@ -15,6 +15,7 @@ Write something about your milestone in ``milestone.md``.
 ### Step 4
 Link the GitHub page with your own site in ``CNAME``.
 ### Step 5
-Start write your own blog in folder ``_posts`` using MarkDown.
+Start write your own blog in folder ``_posts`` using MarkDown.  
+To learn about MarkDown, you can see [MarkDown](https://eulir.github.io/language/2018/03/10/About-MarkDown/).
 ### Step 6
 See your work in ``YourUserName.github.io``.
