@@ -2,13 +2,13 @@
 title: Tony's blog # 你的博客名字，可以定义修订
 header-img: "img/fullsizeoutput_378.jpeg"
 tagline: "cn"  
-description: "这是我的博客"  # 一句话描述你的博客
+description: "welcome！！！"  # 一句话描述你的博客
 baseurl: ""
 url: ""  # 此处填写你的博客地址
 
 # About/contact
 owner: 
-  name: "Tony" # 填写作者信息：名字
+  name: "Tony-阳裕航" # 填写作者信息：名字
   email: 2548537412@qq.com # 填写作者信息：邮箱
   bio: "fbjhbuhb" # 填写作者信息：博客描述
 
