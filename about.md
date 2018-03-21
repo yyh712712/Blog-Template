@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "虽千万里，吾往矣"
+description: "带上耳机，踏上单车，便拥有了诗与远方"
 header-img: "img/fullsizeoutput_5ed.jpeg"
 ---
 
