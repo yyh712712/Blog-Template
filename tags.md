@@ -5,7 +5,8 @@ description: "哈哈，这是文件夹"
 header-img: "img/121521610687_.pic_hd.jpg"
 ---
 
-##基因列表
+## 本页的使用方法
+看到各个标题了吗？点一下就穿越过去啦。。。。。
 
 
 <div id='tag_cloud'>
