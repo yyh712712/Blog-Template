@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Archive"
-description: "文章归档"
+description: "行程和比赛"
 header-img: "img/fullsizeoutput_5ee.jpeg"
 ---
 
