@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Tags"
-description: "文章基因库"
-header-img: "img/semantic.jpg"  
+description: "哈哈，这是文件夹"
+header-img: "img/121521610687_.pic_hd.jpg"
 ---
 
 ##基因列表
